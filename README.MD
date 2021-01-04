@@ -14,6 +14,7 @@ Client execution: </br>
 Example: ./client 127.0.0.1 1234
 
 * All clients connecting to the chat must use the same server IP and port
+* It is necessary to execute the server file before the client, to make the connection.
 
 
 <b>Implementação chat com sockets</b>
@@ -31,4 +32,5 @@ Execução do cliente:</br>
 Ex: ./client 127.0.0.1 1234
 
 * Todos os clientes que forem se conectar ao chat devem usar mesmo IP e porta do servidor
+* É necessaŕio executar o arquivo servidor antes do cliente, para se fazer a conexão.
 
