@@ -9,7 +9,7 @@ Example: ./server 1234
 
 Client execution: </br>
 1st gcc client.c -o client </br>
-2nd ./client <IP> <server_port>
+2nd ./client < IP > <server_port>
 
 Example: ./client 127.0.0.1 1234
 
@@ -26,7 +26,7 @@ Ex: ./server 1234
 
 Execução do cliente:</br>
 1° gcc client.c -o client</br>
-2° ./client <IP> <porta_do_servidor>
+2° ./client < IP > <porta_do_servidor>
 
 Ex: ./client 127.0.0.1 1234
 
