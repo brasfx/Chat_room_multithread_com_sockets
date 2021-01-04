@@ -5,13 +5,13 @@ Server execution: </br>
 1st gcc server.c -o server -lpthread </br>
 2nd ./server <server_port> </br>
 
-Ex. ./Server 1234
+Example: ./server 1234
 
 Client execution: </br>
 1st gcc client.c -o client </br>
 2nd ./client <IP> <server_port>
 
-Ex. ./client 127.0.0.1 1234
+Example: ./client 127.0.0.1 1234
 
 * All clients connecting to the chat must use the same server IP and port
 
